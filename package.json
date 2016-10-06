@@ -2,7 +2,7 @@
   "name": "axon",
   "version": "0.0.0",
   "description": "Axon",
-  "main": "index.js",
+  "main": "lib/Axon",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Lapixx/axon/issues"
   },
-  "homepage": "https://github.com/Lapixx/axon#readme"
+  "homepage": "https://github.com/Lapixx/axon#readme",
+  "engines": {
+    "atom": ">=1.0.0"
+  }
 }

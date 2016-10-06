@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'Axon'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'axon:toggle'
+        }
+      ]
+    ]
+  }
+]
